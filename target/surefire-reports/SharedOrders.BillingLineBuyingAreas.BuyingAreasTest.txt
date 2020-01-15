@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SharedOrders.BillingLineBuyingAreas.BuyingAreasTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.234 s - in SharedOrders.BillingLineBuyingAreas.BuyingAreasTest

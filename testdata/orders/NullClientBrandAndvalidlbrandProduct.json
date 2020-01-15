@@ -1,0 +1,12 @@
+{
+  "name": "Null client brand Test - error returned ",
+  "clientId": "c87461fc-7cc2-41d7-a0ad-aa9901188615",
+  "contactIds": [
+    "b0aa901d-2bc7-4493-bf34-aa990118861d"
+  ],
+  "ownerIds": [
+    "5f52ca1b-e247-4bba-ac02-aa9500a6c839"
+  ],
+  "clientBrandId": "",
+  "brandProductId": "ab21a5b7-38d1-46c2-b81d-aa990118861b"
+}

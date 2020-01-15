@@ -1,0 +1,19 @@
+{
+  orderId: "b1375915-6c3d-4df5-aac2-aaf400e3ebab",
+  plannerId: "90C44CAE-2A4A-4B5D-A5EC-AA9500A6C839",
+  productId: "3B50FC9A-26B1-42C7-A7B4-AACB0084B9E4",
+  startMonth: "2019-11-30",
+  durationInMonths: 14,
+  billingLineBuyingAreaRevenues: [{
+    id: "8798f1f5-cd1b-455e-b44a-aacb00845536",
+    monthBuyingAreaRevenues: [{
+      date: "2019-11-30",
+      value: 0.01
+    }
+
+    ]
+  }
+
+  ],
+  revenue: 0.01
+}

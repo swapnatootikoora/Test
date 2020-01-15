@@ -1,0 +1,122 @@
+[
+  {
+    "Id": "7d8e6dfb-281f-4875-82e7-aa9901188605",
+    "Name": "Rainmaker Sales Solutions Limited",
+    "CustomerReferenceNumber": "C1420121",
+    "IsDisabled": false
+  },
+  {
+    "Id": "699f595a-9ea9-4bd6-997b-aa9901188605",
+    "Name": "BRANDON HILL COMMUNICATIONS",
+    "CustomerReferenceNumber": "C1410100",
+    "IsDisabled": false
+  },
+  {
+    "Id": "f7711efa-a5d2-44f5-9ade-aa9901188605",
+    "Name": "Engaging Education",
+    "CustomerReferenceNumber": "C2468266",
+    "IsDisabled": false
+  },
+  {
+    "Id": "56171ce0-4be6-44ac-8379-aa9901188605",
+    "Name": "Mind Works Marketing Co Limited",
+    "CustomerReferenceNumber": "C1350197",
+    "IsDisabled": false
+  },
+  {
+    "Id": "ccf92609-8663-4edd-9635-aa9901188605",
+    "Name": "PENNA PLC",
+    "CustomerReferenceNumber": "C1393595",
+    "IsDisabled": false
+  },
+  {
+    "Id": "6b123616-15eb-4342-a26a-aa9901188605",
+    "Name": "KINGS DESIGN ASSOCIATES",
+    "CustomerReferenceNumber": "C1339170",
+    "IsDisabled": false
+  },
+  {
+    "Id": "657aa32b-8d44-4de7-9043-aa9901188605",
+    "Name": "Carat (North) Ltd - a trading division of Aegis Media",
+    "CustomerReferenceNumber": "C2426347",
+    "IsDisabled": true
+  },
+  {
+    "Id": "3f37ee4a-185f-4ee6-88ab-aa9901188605",
+    "Name": "HOPKINS COMMUNICATIONS.",
+    "CustomerReferenceNumber": "C1417823",
+    "IsDisabled": false
+  },
+  {
+    "Id": "bd633d67-0076-4f48-bc54-aa9901188605",
+    "Name": "RHINO ADVERTISING",
+    "CustomerReferenceNumber": "C1283870",
+    "IsDisabled": false
+  },
+  {
+    "Id": "c31791f6-f42d-44ac-824e-aa9901188605",
+    "Name": "EDEN CANCAN LTD",
+    "CustomerReferenceNumber": "C1418703",
+    "IsDisabled": true
+  },
+  {
+    "Id": "7068c260-076f-49df-be7d-aa9901188605",
+    "Name": "Wavemaker Manchester Via Active Barter",
+    "CustomerReferenceNumber": "C2485930",
+    "IsDisabled": false
+  },
+  {
+    "Id": "26ba2338-b278-4db2-b503-aa9901188605",
+    "Name": "Fresh Design Studios Ltd",
+    "CustomerReferenceNumber": "C2441749",
+    "IsDisabled": false
+  },
+  {
+    "Id": "f230dc0c-3422-491a-889e-aa9901188605",
+    "Name": "the7stars",
+    "CustomerReferenceNumber": "C1391750",
+    "IsDisabled": false
+  },
+  {
+    "Id": "ed218ab2-db37-4ff7-8820-aa9901188605",
+    "Name": "ORGILL  LTD",
+    "CustomerReferenceNumber": "C1292520",
+    "IsDisabled": false
+  },
+  {
+    "Id": "3bd65ad8-0833-4d5a-b0fa-aa9901188605",
+    "Name": "Banana Kick",
+    "CustomerReferenceNumber": "C2490681",
+    "IsDisabled": false
+  },
+  {
+    "Id": "fcf166b9-df1d-4102-8d92-aa9901188605",
+    "Name": "TRIDENT MARKETING UK LTD",
+    "CustomerReferenceNumber": "C1401949",
+    "IsDisabled": false
+  },
+  {
+    "Id": "c85c6555-d740-47d5-91d6-aa9901188605",
+    "Name": "D M S",
+    "CustomerReferenceNumber": "C2458196",
+    "IsDisabled": false
+  },
+  {
+    "Id": "72344578-96c7-4339-bce1-aa9901188605",
+    "Name": "M4 Media",
+    "CustomerReferenceNumber": "C2472863",
+    "IsDisabled": false
+  },
+  {
+    "Id": "95f60bbe-0416-4114-9fca-aa9901188605",
+    "Name": "Pickle Marketing",
+    "CustomerReferenceNumber": "C2487300",
+    "IsDisabled": false
+  },
+  {
+    "Id": "f36fa787-9904-407a-8fda-aa9901188605",
+    "Name": "The Lane Agency Limited",
+    "CustomerReferenceNumber": "C2447691",
+    "IsDisabled": false
+  }
+]

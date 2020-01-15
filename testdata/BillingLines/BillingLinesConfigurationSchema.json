@@ -1,0 +1,9 @@
+{
+  "environment": "string",
+  "applicationInsights": "string",
+  "webComponents": {
+    "billingLineItems": "string",
+    "billingLineProducts": "string",
+    "billingLineBuyingAreas": "string"
+  }
+}

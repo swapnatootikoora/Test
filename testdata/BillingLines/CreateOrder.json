@@ -1,0 +1,15 @@
+{
+  "name": "orders demo",
+  "clientId": "df8a4d14-0097-4119-8f55-aa9901188615",
+  "contactIds": [
+    "9952c23f-548c-461a-9a77-aa990118861d",
+    "de863da0-203d-4681-aff9-aa990118861d"
+  ],
+  "ownerIds": [
+    "3e751c3b-e58e-49a0-98b9-aa9500a6c839",
+    "5f52ca1b-e247-4bba-ac02-aa9500a6c839",
+    "7be28538-74f9-4a0a-b290-aa9500a6c839"
+  ],
+  "clientBrandId": "80b7085e-6b8b-47f3-9805-aa9901188618",
+  "brandProductId": "30606f5f-b3c6-451b-8d85-aa990118861a"
+}

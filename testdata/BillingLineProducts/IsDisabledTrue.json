@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "hasCommission": true,
+  "buyingAreaIds": [
+    "ca812e24-f921-45d9-b5cb-aabf0088c2bd"
+  ],
+  "isDisabled": true
+}

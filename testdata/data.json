@@ -1,0 +1,484 @@
+{
+  "Products": [
+    {
+      "Id": 33,
+      "Name": "Regional - S&P Digital - Global Display",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 34,
+      "Name": "Regional - S&P Digital - Production",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 35,
+      "Name": "Regional - S&P Digital - SMS Textback",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 36,
+      "Name": "Regional - S&P Digital - CRM",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 37,
+      "Name": "Regional - S&P Digital - Partner Display",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 38,
+      "Name": "Regional - S&P Mobile App - Full Screen or Video",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 39,
+      "Name": "Regional - S&P Mobile App - Banners",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 40,
+      "Name": "Regional - S&P Digital - Social",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 41,
+      "Name": "Regional - S&P Digital - As Advertised",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 42,
+      "Name": "S&P - TV Video Pre Roll",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 43,
+      "Name": "Regional - S&P Digital - Digital Video Network",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 44,
+      "Name": "S&P - TV Video Players",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 45,
+      "Name": "Regional - S&P Radio Video Players",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 46,
+      "Name": "Regional - S&P Digital - Radio Player - Sponsorship",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 47,
+      "Name": "Regional - S&P Digital - Sponsorship/Partnerships",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 48,
+      "Name": "Regional - S&P Digital - Promotions",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 49,
+      "Name": "S&P - Research",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 50,
+      "Name": "S&P - Street Teams",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 51,
+      "Name": "S&P - Promotions 28 Day Cancellation",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 52,
+      "Name": "S&P - Cash Prize",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 53,
+      "Name": "S&P - Audio Production",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 54,
+      "Name": "Regional - S&P - AV Production",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 55,
+      "Name": "S&P - Event Costs",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 56,
+      "Name": "S&P - Goods Prize Fund",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 57,
+      "Name": "S&P - TV",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 58,
+      "Name": "S&P - Talent - Global",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 59,
+      "Name": "S&P - Talent - Non Global",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 62,
+      "Name": "Commercial Airtime 28 Day Cancellation charge",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 63,
+      "Name": "Barter - Revenue",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 64,
+      "Name": "Contra - Revenue",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 94,
+      "Name": "Commercial Production - Revenue",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 95,
+      "Name": "Inventory Billing Line",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 98,
+      "Name": "Regional - S&P Digital - Homepage Takeover",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 99,
+      "Name": "Regional - S&P Digital - Extended Reach",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 100,
+      "Name": "Regional - S&P Digital Takeover - Mobile web",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 103,
+      "Name": "S&P Inventory",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 374,
+      "Name": "Co-Promotions Airtime Revenue",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 375,
+      "Name": "S&P Digital - Website Presenters",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1387,
+      "Name": "S&P - Communicorp Regional Sponsorship",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1391,
+      "Name": "Digital One",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1392,
+      "Name": "Digital Two",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1393,
+      "Name": "Digital Three",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1394,
+      "Name": "PopBuzz",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1395,
+      "Name": "Creative - Single radio ad",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1396,
+      "Name": "Creative - Multiple ad package",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1397,
+      "Name": "Creative - Music production/licensing",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1398,
+      "Name": "Creative - Famous voice",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1399,
+      "Name": "Creative - Website/Microsite",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1400,
+      "Name": "Creative - Video production",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1401,
+      "Name": "Regional - S&P Digital - Digital ME",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1405,
+      "Name": "Regional - S&P Digital - Website/Microsite",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1407,
+      "Name": "S&P Digital - App Build",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1408,
+      "Name": "S&P Digital - Audience Extension",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1409,
+      "Name": "S&P Digital - Blogs",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1410,
+      "Name": "S&P Digital - Virtual Tour",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1411,
+      "Name": "S&P Digital - PCC",
+      "isDisabled": true,
+      "hasCommission": true
+    },
+    {
+      "Id": 1412,
+      "Name": "Production Communicorp",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1413,
+      "Name": "WeTheUnicorns",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1414,
+      "Name": "National External Creative",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1415,
+      "Name": "TV Capital",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1416,
+      "Name": "TV Heart",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1417,
+      "Name": "Creative - DAX ad",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1436,
+      "Name": "Regional Enterprise Billing Line",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1437,
+      "Name": "Digital Costs Only",
+      "isDisabled": false,
+      "hasCommission": false
+    },
+    {
+      "Id": 1439,
+      "Name": "Digital Costs: Display Creative",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1440,
+      "Name": "Digital Costs: Promotions",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1441,
+      "Name": "Digital Costs: Website Build",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1442,
+      "Name": "Digital Costs: App Build",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1443,
+      "Name": "Digital Costs: Website Presenter",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1444,
+      "Name": "Digital Costs: Virtual Tour",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1445,
+      "Name": "Digital Costs: Digital Flipbook",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1446,
+      "Name": "Digital Costs: Extended Reach",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1447,
+      "Name": "Digital Costs: Digital Video Network",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1448,
+      "Name": "Digital Costs: Social Media Management",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1449,
+      "Name": "Digital Costs: SEO Content",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1450,
+      "Name": "Digital Costs: SEO Management",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1451,
+      "Name": "Digital Costs: Digital Production",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1452,
+      "Name": "Digital Costs: Digital Video Production",
+      "isDisabled": true,
+      "hasCommission": false
+    },
+    {
+      "Id": 1457,
+      "Name": "Creative - TextMotion",
+      "isDisabled": false,
+      "hasCommission": true
+    },
+    {
+      "Id": 1458,
+      "Name": "Global Partnerships Festival Fee",
+      "isDisabled": true,
+      "hasCommission": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "revenue": 0.02,
+  "plannerId": "90C44CAE-2A4A-4B5D-A5EC-AA9500A6C839",
+  "durationInMonths": 2,
+  "productId": "3B50FC9A-26B1-42C7-A7B4-AACB0084B9E4",
+  "orderId": "b1375915-6c3d-4df5-aac2-aaf400e3ebab",
+  "startMonth": "2019-11-03",
+  "billingLineBuyingAreaRevenues": [
+    {
+      "monthBuyingAreaRevenues": [
+        {
+          "date": "2019-11-03",
+          "value": 0.01
+        },
+        {
+          "date": "2019-12-03",
+          "value": 0.01
+        }
+      ],
+      "id": "234567889"
+    }
+  ]
+}
+
+
+id: "944d1225-32ec-4ee2-b4a1-aaf8010d6193",
+monthBuyingAreaRevenues: [{
+date: "2019-11-30",
+value: 11
+},
+{
+date: "2019-12-30",
+value: 22
+}
+]

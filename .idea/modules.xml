@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SOMAPI.iml" filepath="$PROJECT_DIR$/.idea/SOMAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gco-testing/SharedOrderMgmtAutomation.iml" filepath="$PROJECT_DIR$/gco-testing/SharedOrderMgmtAutomation.iml" />
     </modules>
   </component>
 </project>

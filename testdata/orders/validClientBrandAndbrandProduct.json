@@ -1,0 +1,12 @@
+{
+  "name": "Order with client barnd and brand product",
+  "clientId": "494a728a-c58b-408a-8734-aa9901188615",
+  "contactIds": [
+    "0bedecf4-4e5a-442d-987c-aa990118861d"
+  ],
+  "ownerIds": [
+    "fbbdddee-6bda-4d33-8e84-aa9500a6c839"
+  ],
+  "clientBrandId": "96e33793-3b69-428d-be95-aa9901188618",
+  "brandProductId": "40fb130c-643b-4f3e-9871-aa990118861a"
+}

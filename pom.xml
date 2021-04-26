@@ -52,7 +52,7 @@
         <cucumber.version>4.3.1</cucumber.version>
         <log4j.version>1.7.26</log4j.version>
         <cucumberJunitversion>4.3.1</cucumberJunitversion>
-        <commons.ioversion>2.6</commons.ioversion>
+        <commons.ioversion>2.7</commons.ioversion>
         <hoverfly.version>0.12.0</hoverfly.version>
         <java.version>1.8</java.version>
         <!--suppress UnresolvedMavenProperty -->
